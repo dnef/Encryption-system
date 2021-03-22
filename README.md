@@ -1,4 +1,4 @@
 # testUBRR
-Тестовое задание
-main - Test.java
+Тестовое задание.
+Файл main - Test.java
 ТЗ в файле ТЗ Java УБРиР.txt
